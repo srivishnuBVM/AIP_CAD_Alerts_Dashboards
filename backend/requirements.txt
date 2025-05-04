@@ -1,0 +1,15 @@
+fastapi 
+uvicorn 
+pandas 
+numpy 
+xgboost 
+openpyxl
+scikit-learn
+pandas 
+numpy 
+scikit-learn
+joblib
+openpyxl
+fastapi 
+uvicorn 
+dateutil
